@@ -1,9 +1,9 @@
-title: Moving # The title of the blog
-author: Your Name # Your name 
-email: your-email@domain.com # your email shown in the footer
-url: https://blog.sandhya.dev # this is your site's root address.
+title: Close to the Metal
+author: Sandhya Chandramohan
+email: sandhya2392@gmail.com
+url: https://blog.sandhya.dev
 description: > # this means to ignore newlines until "show_excerpts:"
-  A clean and minimalist theme for Jekyll.
+  Distributed Systems, Hardware hacking and growth
 favicon: "./favicon.ico" # set the favicon of the site 
 
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -19,13 +19,13 @@ moving:
   # generate social links in about page.
   social_links:
     # twitter: 
-    github:  huangyz0918
+    github:  s4ndhyac
     rss: RSS
     # dribbble: 
-    facebook: huangyz0918
+    facebook: sandhya.chandramohan
     # flickr:   
     # instagram: 
-    linkedin: yizheng-huang
+    linkedin: sandhyachandramohan
     # pinterest: 
     # youtube: 
     # youtube_channel: 
